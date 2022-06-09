@@ -85,6 +85,11 @@
         body {
             background-color: black;
         }
+        
+        @font-face {
+            font-family: vcr;
+            src: url(vcr.ttf);
+        }
     </style>
     <style>
         .chat {
@@ -95,6 +100,8 @@
             width: 100%;
             flex-direction: column;
             justify-content: space-between;
+            font-family: vcr, 'Courier New', Courier, monospace;
+            font-size: x-large;
         }
         
         .chat.initialized {
@@ -192,8 +199,15 @@
             margin-right: auto;
             max-width: 75%;
             padding: 0.45rem 0.75rem .5rem;
+            /* Change colour of agent bubble */
             background: #eee;
             display: inline-block;
+            font-weight: bold;
+        }
+        
+        .chat .user.choice {
+            /* Change colour of choice options */
+            background-color: aqua;
         }
         
         .chat .user {
@@ -203,6 +217,8 @@
             padding: 0.45rem 0.75rem .5rem;
             display: inline-block;
             border: 1px solid #ccc;
+            /* Change colour of user bubble */
+            background-color: #fff;
         }
         
         .chat .user+.user {
@@ -263,7 +279,7 @@
     </div>
     <script src="ink.js">
     </script>
-    <script src="https://cdn.jsdelivr.net/gh/neohren/ratcave@latest/story.js">
+    <script src="story.js">
     </script>
     <script src="main.js">
     </script>
