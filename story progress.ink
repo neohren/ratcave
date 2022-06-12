@@ -1,7 +1,8 @@
 -> intro1
 
 == intro1
-[you see a rat creature typing away at his desk. it seems like you've interrupted something.]
+you see a rat creature typing away at his desk. it seems like you've interrupted something. #CLASS: none 
+
 what the fuck?? howd you get in here?
 
 + where is "here"? #CLASS: user 
@@ -255,12 +256,14 @@ have fun looking around or whatever...
 (can you tell shorts i want to go wireless when u see him... u were alright but i dont want visitors in my lair yakno)
 +sure #CLASS: user
 k.
-[rat turns back to... what is that. light mode discord??]
+rat turns back to... what is that. light mode discord?? #CLASS: none
+it looks like he doesn't have anything else to say. #CLASS: none
 -> END
 
 == exitmean
 GET OUT!!!!!!!!!!!!!!!!!!!!
 fuckin shorts just lets anyone on here. what are we. creative commons.
 (that was a quip. im so IP. ask the idiot who coded us.)
-[rat turns back to his monitor. it's uh... ew...] #CLASS: none 
+rat turns back to his monitor. it's uh... ew... #CLASS: none 
+it looks like he's done talking to you. #CLASS: none
 -> END
