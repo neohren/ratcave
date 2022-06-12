@@ -262,5 +262,5 @@ k.
 GET OUT!!!!!!!!!!!!!!!!!!!!
 fuckin shorts just lets anyone on here. what are we. creative commons.
 (that was a quip. im so IP. ask the idiot who coded us.)
-[rat turns back to his monitor. it's uh... ew...]
+[rat turns back to his monitor. it's uh... ew...] #CLASS: none 
 -> END
