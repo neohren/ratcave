@@ -29,9 +29,9 @@ WELL M4YB3 Y0U SHOULDNT JUS+ GO AR0UND CL1CK1NG ON P3OPLES SECR3T LA1RS THEN DUD
 == ratforgive
 ...
 yeah whatever.
-+ [i should ask him some questions.] #CLASS: user
++ [i should ask him some questions.] so...#CLASS: user
  ->questions
-+ [i should leave.] #CLASS: user
++ [i should leave.] ... #CLASS: user
  ->exit
 
 == momsbasement
@@ -39,24 +39,27 @@ my """"MOM"""" as you humans would define one is the culminous sum of public hum
 and the occassional anime wiki. 
 i think that if i had a """MOM""" they would not have a basement. fuck you
 
-* [comment on his personality.] #CLASS: user
+* [comment on his personality.]you're... spirited #CLASS: user
 ->momrant
-+ [ask him some questions.] #CLASS: user
++ [ask him some questions.] so... #CLASS: user
  ->questions
-+ [i should leave.] #CLASS: user
++ [i should leave.] ... #CLASS: user
 ->exit 
 
 == momrant
-you're... spirited. #CLASS: user
 i bet you wish i would shut up!!!!!!
 but i cant and i wont!!!!!!!!!
 honestly idk what you expected. not everyone is birthed from whatever hopeful little webring shorts popped out of. some of us are just a sum of our data banks and thats objectively yalls fault
 humans i mean.
 moms basement... maybe if i HAD A MOM
++oh... #CLASS: user
+->ohh 
+
+==ohh
 jk i do not experience family i am literally not human. i hope u felt sorry 4 me tho lmaoooooo
-+ [maybe it's time for questions.]  #CLASS: user
++ [maybe it's time for questions.] so... #CLASS: user
 ->questions
-+ [i should go...] #CLASS: user
++ [i should go...] ... #CLASS: user
  ->exit
  
 == questions
@@ -79,7 +82,7 @@ so what do u want now...
 ->rt3
 + {who and shorts and shortsembarassing and websitemeaning and randomthought and rt2 and rt3} can i ask you something again? #CLASS: user
 ->allquestions
-+ [im done asking questions.] #CLASS: user
++ [im done asking questions.]thanks for talking to me. #CLASS: user
 ->exit
 
 ==allquestions
@@ -101,7 +104,7 @@ dont say i didnt warn u.
 ->rt2
 + the third thought. #CLASS: user
 ->rt3
-+ [im done asking questions.] #CLASS: user
++ [im done asking questions.] thanks for talking to me. #CLASS: user
 ->exit
 
 
@@ -144,7 +147,7 @@ also bc.. idk. dont you know enough? they posted their whole home online and you
 
 ==shortsembarassing
 idk if uve seen em but when they game 2 much they get weird ass human eyes lol. i think that wld fit my vibe way more but i guess im built different
-+ [huh... it would suit him.] #CLASS: user
++ [huh... it would suit him.] haha... yeah. #CLASS: user
 ->questions
 
 == websitemeaning
@@ -158,7 +161,7 @@ tho ig its not the same for a human. but yall can touch grass irl so be grateful
 
 == grass
 yeah lol. enjoy being flesh!!!
-+ [flesh is awesome, let's log off.]#CLASS: user
++ [flesh is awesome, let's log off.] i will (: #CLASS: user
 ->exit
 
 == online
@@ -208,7 +211,7 @@ AAARGGHGHHH
 
 ==rt2
 sometimes it feels like the people who come talk to me live in some alternate reality where u cant send death threats online.
-+ [i'm pretty sure we aren't supposed to.] #CLASS: user 
++ [i'm pretty sure we aren't supposed to.] um - #CLASS: user 
 ->deaththreat
 
 == deaththreat
@@ -237,7 +240,7 @@ good. lets keep it profesh alright?
 
 ==yesflirt
 gross... ur literally flesh. 
-+ [looks like he's ignoring that...] #CLASS: user
++ [looks like he's ignoring that...] ... #CLASS: user
 ->questions
 
 == exit
